@@ -2,6 +2,11 @@
 PRiR lab 3 projekt 5. Tworzenie negatywu obrazu, tworzenie negatywu jest podzielone na wątki aby przyśpieszyć działanie programu.
 
 przed
+![image](https://user-images.githubusercontent.com/80594314/139540140-e47f0758-492a-4b53-8c83-7eb8ea0b4761.png)
+
+po
+![image](https://user-images.githubusercontent.com/80594314/139540151-8cfd37db-8dd6-4566-b94a-d8ef69f23485.png)
+
 
 
 Opis kodu
